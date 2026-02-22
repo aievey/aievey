@@ -6,16 +6,14 @@
 -->
 # aievey's GitHub Profile
 
-![Header](https://github-readme-stats.vercel.app/api/top-langs/?username=aievey&layout=compact&theme=dark&bg_color=0d1117) 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on [Sleep On It](https://github.com/aievey/sleep-on-it)
+- 🌱 I’m currently learning **PostgreSQL**
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with **Database Design**
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ADHD
 
 # 👨‍💻 Full-Stack Developer in Making
 
@@ -28,10 +26,6 @@
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)-->
 
 🌟 **Specializing in modern web development with Next.js & Tailwind CSS**
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=aievey&show_icons=true&theme=dark)
-
 
 
 
